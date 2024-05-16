@@ -1,4 +1,4 @@
-#file:///C:/developer/Project/index.html
+file:///C:/developer/Project/index.html
 
 Here you will find web development mini projects which are made up of HTML, CSS, JavaScript and Bootstrap. This Project is about a real estate website which tells about all the Facilities and Ammenities Proivided by "PRIME REAL ESTATE".
 
